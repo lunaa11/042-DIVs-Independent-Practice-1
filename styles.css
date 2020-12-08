@@ -1,0 +1,20 @@
+img {
+    height: 200px;
+}
+
+.header {
+    background-color: lightblue;
+    padding: 10px;
+    border: solid black;
+}
+
+.troy {
+    background-color: lightgrey;
+    padding: 10px;
+    margin: 10px;
+}
+.richard {
+    background-color:red;
+    padding: 10px;
+    margin: 10px;
+}
